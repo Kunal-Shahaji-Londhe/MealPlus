@@ -1,13 +1,13 @@
 
-# Meal Planner Web Application
+# Meal Planner Web Application🍕🍔🥗
 
-Welcome to the Meal Planner Web Application repository! This project was developed as part of an assignment at Pimpri Chinchwad College of Engineering, Pune.
+Welcome to the Meal Planner Web Application repository!🐼 This project was developed as part of an assignment at Pimpri Chinchwad College of Engineering, Pune.
 
-## Overview
+## Overview📖
 
 This web application serves as a meal planner, allowing users to plan their meals based on their desired calorie count. It was built using the MERN (MongoDB, Express.js, React, Node.js) stack for a robust and scalable solution.
 
-## Features
+## Features🔖
 
 - **User Registration and Login**: Implemented secure user registration and login functionality to enhance the overall user experience.
 
@@ -17,14 +17,14 @@ This web application serves as a meal planner, allowing users to plan their meal
 
 - **Spoonacular API Integration**: Utilized the Spoonacular API to fetch meal recipes and information based on user-input calorie count, providing a diverse range of meal options.
 
-## Technologies Used
+## Technologies Used👨‍💻
 
 - **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **External API**: Spoonacular API
 
-## Getting Started
+## Getting Started😁
 
 1. Clone the repository:
 
