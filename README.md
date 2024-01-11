@@ -29,7 +29,7 @@ This web application serves as a meal planner, allowing users to plan their meal
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/meal-planner-web-app.git
+   git clone https://github.com/Kunal-Shahaji-Londhe/meal-planner-web-app.git
    ```
 
 2. Install dependencies:
