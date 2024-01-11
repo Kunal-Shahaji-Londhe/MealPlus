@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08abecc6.css",
+    "main.js": "/static/js/main.8e08bf66.js",
+    "static/media/meal-app.png": "/static/media/meal-app.6b9c4b660db46699741e.png",
+    "static/media/meal-plan.png": "/static/media/meal-plan.794c7b36fb3eea58ef16.png",
+    "index.html": "/index.html",
+    "main.08abecc6.css.map": "/static/css/main.08abecc6.css.map",
+    "main.8e08bf66.js.map": "/static/js/main.8e08bf66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08abecc6.css",
+    "static/js/main.8e08bf66.js"
+  ]
+}
