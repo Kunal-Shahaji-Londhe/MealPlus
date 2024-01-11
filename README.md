@@ -1,5 +1,5 @@
 
-# Meal Planner Web Application🍕🍔🥗
+# Meal Planner Web Application🍕🥗
 
 Welcome to the Meal Planner Web Application repository!🐼 This project was developed as part of an assignment at Pimpri Chinchwad College of Engineering, Pune.
 
